@@ -1,0 +1,14 @@
+0 0
+40
+3 10
+3 17
+38
+16 1
+50
+11 1
+88415 4987
+Bad line: Z 23 435
+Bad line: hello world
+Bad line: A 1 2 3
+58 17
+Bad line: aedefa

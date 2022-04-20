@@ -1,0 +1,25 @@
+Alice's Adventures in Wonderland (commonly Alice in Wonderland) is an 1865 English children's novel by Lewis Carroll
+(a pseudonym of Charles Lutwidge Dodgson).[1] A young girl named Alice falls through a rabbit hole into a fantasy world
+of anthropomorphic creatures. It is seen as a prime example of the literary nonsense genre.[2][3] Its play with logic
+gives the story lasting popularity with adults as well as children.[2]
+
+One of the best-known works of Victorian English fiction, its narrative, structure, characters and imagery have had
+huge influence on popular culture and literature, especially in the fantasy genre.[3][4][5] The book has never been out
+of print and has been translated into at least 97 languages.[6] Its legacy covers adaptations for stage, screen, radio,
+art, ballet, theme parks, board games and video games.[7] Carroll published a sequel in 1871 entitled Through the
+Looking-Glass and a shortened version for young children, The Nursery "Alice", in 1890.
+
+C-3PO (/ˌsiːˈθriːpioʊ/) or See-Threepio[1] is a humanoid robot character in the Star Wars franchise who appears in the
+original trilogy, the prequel trilogy and the sequel trilogy. Built by Anakin Skywalker, C-3PO was designed as a
+protocol droid intended to assist in etiquette, customs, and translation,[2] boasting that he is "fluent in over six
+million forms of communication".[3] Along with his astromech droid counterpart and friend R2-D2, C-3PO provides comic
+relief within the narrative structure of the films, and serves as a foil. Anthony Daniels has portrayed the character
+in eleven of the twelve theatrical Star Wars films released to date, with the exception of Solo: A Star Wars Story,
+where the character does not appear.[4][a]
+
+"import java.util.regex.*;"
+This is a test.
+And so it this one;
+App{ poop }
+"Hello"
+"How , do , you , do ?? ?"

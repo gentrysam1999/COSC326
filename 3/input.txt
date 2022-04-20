@@ -1,0 +1,39 @@
+50 s 50 e
+
+I am a very bad coordinate
+50 S, I am a very bad coordinate, 40 E
+-91, -181
+91, 181
+-90.01, -180.01
+-90, -180
+90, 180
+50 S, 40 E
+40 E, 50 S
+40 E 50 S
+50 S 40 E
++50 -40
+30 155
+23 d 45 m 2 s N, 15 d 20 m 3 s W
+23d 45m 2s N 15d 20m 3s W
+50°00'00.0"N, 50°00'00.0"E
+50° 00' 00.0" N, 50° 00' 00.0" E
+
+50 S, 40 E A wonderful, wonderful, wonderful place
+-50, 40 A wonderful, wonderful, wonderful place
+
+50 S, 40 S
+50 E, 40 E
+50 south 40 east
+
+-100 0
+-50 S, 40 E
+
+30 -270
+
+23 D 45 M 2 S N, 15 d 20 m 3 s S
+
+50 S, 40 EA wonderful, wonderful, wonderful place
+
+50 S 40
+
+50 S -40
